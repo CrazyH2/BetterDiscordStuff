@@ -540,7 +540,7 @@ body::after {
     pointer-events: none;
     z-index: -1;
 }
-
+/*
 body::before {
     background: var(--background-image-calc) var(--background-image-position)/var(--background-image-size) no-repeat;
 }
@@ -557,7 +557,7 @@ body::after {
     margin-bottom: var(--window-margin-px);
     margin-right: var(--window-margin-px);
     margin-left: calc(var(--window-margin-left) * 1px);
-}
+} */
 
 /* 3. Titlebar */
 .wordmarkWindows-2dq6rw {
