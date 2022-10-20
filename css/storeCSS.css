@@ -2,6 +2,14 @@
     display: none
 }
 
+.chatContent-3KubbW[aria-label^=css-snippets] #chat-messages-1032664881993879622 {
+    display: none
+}
+
+.chatContent-3KubbW[aria-label^=css-snippets] .form-3gdLxP, .chatContent-3KubbW[aria-label^=css-snippets] .scroller-kQBbkU {
+    padding-top: 30px
+}
+
 .chatContent-3KubbW[aria-label^=css-snippets] .scrollerInner-2PPAp2 {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(328px, 328px));
@@ -61,7 +69,7 @@
 }
 
 /* Discord added this :D */
-/* .chatContent-3KubbW[aria-label^=css-snippets] .embedWrapper-1MtIDg,
+.chatContent-3KubbW[aria-label^=css-snippets] .embedWrapper-1MtIDg,
 .chatContent-3KubbW[aria-label^=css-snippets] .embedVideo-2ixt5A{
     height: auto !important;
     width: unset !important
@@ -73,7 +81,7 @@
     height: auto !important;
     width: unset !important;
     max-width: 100%
-} */
+}
 
 .chatContent-3KubbW[aria-label^=css-snippets] .message-2CShn3 {
     margin: 0 !important;
